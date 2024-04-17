@@ -13,5 +13,6 @@ public class Lab001 {
         check if the code can be pushed from GitHub to Intellij;
         //check if git pull command works
         //check if git push origin command works.
+        //check if git push command works
     }
 }
