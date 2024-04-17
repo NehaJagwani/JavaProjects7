@@ -8,5 +8,7 @@ public class Lab001 {
         System.out.println(x);
         float f=3.14f;
         System.out.println(f);
+        long l=90;
+        System.out.println(l);
     }
 }
