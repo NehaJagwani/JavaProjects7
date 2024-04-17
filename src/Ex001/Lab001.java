@@ -14,5 +14,6 @@ public class Lab001 {
         //check if git pull command works
         //check if git push origin command works.
         //check if git push command works
+        //check if git pull origin main command works
     }
 }
