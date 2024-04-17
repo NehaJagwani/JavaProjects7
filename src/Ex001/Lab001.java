@@ -10,5 +10,6 @@ public class Lab001 {
         System.out.println(f);
         long l=90;
         System.out.println(l);
+        check if the code can be pushed from GitHub to Intellij;
     }
 }
