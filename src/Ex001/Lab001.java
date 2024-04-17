@@ -6,5 +6,7 @@ public class Lab001 {
         System.out.println(x);
         x=67;
         System.out.println(x);
+        float f=3.14f;
+        System.out.println(f);
     }
 }
