@@ -12,5 +12,6 @@ public class Lab001 {
         System.out.println(l);
         check if the code can be pushed from GitHub to Intellij;
         //check if git pull command works
+        //check if git push origin command works.
     }
 }
